@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="max-width: 80%; margin: 0 auto;">
   
 | App | Name | Organization | Role | Framework | Repository |
 |:---:|:---:|:---:|:---:|:---:|:---:|
